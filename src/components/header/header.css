@@ -1,0 +1,29 @@
+.head_nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 40px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 24px;
+    background-color: rgb(255,255,255);
+  }
+  .nav_list {
+    display: flex;
+    gap: 36px;
+  }
+  
+  .nav_list a {
+    color: var(--text-color);
+    text-transform: uppercase;
+  }
+  
+  .nav_list a:hover {
+    color: var(--hover-text);
+  }
+
+  .nav_logo {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: var(--text-color);
+  }

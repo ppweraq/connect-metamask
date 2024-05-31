@@ -1,0 +1,18 @@
+.decrypter {
+    display: block;
+    width: 50%;
+    margin: 10px auto;
+    text-align: center;
+}
+.decrypter textarea, input {
+    border-radius: 10px;
+    border:none;
+    padding: 10px;
+    background-color: rgb(249,247,248);
+    box-shadow: rgba(201, 151, 151, 0.767) 0px 0px 5px inset;
+    outline: none;
+
+}
+.decrypter textarea {
+    resize: none;
+}

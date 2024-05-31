@@ -1,0 +1,8 @@
+[
+    { "label": "Uniswap", "url": "https://app.uniswap.org/" },
+    { "label": "1inch", "url": "https://app.1inch.io/" },
+    { "label": "Bugs Denet", "url": "https://bugs.denet.pro" },
+    { "label": "Revert Finance", "url": "https://revert.finance" },
+    { "label": "Pancake Swap", "url": "https://pancakeswap.finance/" },
+    { "label": "Juno Swap", "url": "https://junoswap.com/" }
+]
