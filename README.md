@@ -1,3 +1,7 @@
+https://main--inquisitive-belekoy-0dd958.netlify.app/
+
+не выполнено 8-9 пункты
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
